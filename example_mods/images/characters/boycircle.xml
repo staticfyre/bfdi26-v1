@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boycircle.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="444" height="331"/>
+	<SubTexture name="down0001" x="30" y="30" width="444" height="331"/>
+	<SubTexture name="down0002" x="499" y="30" width="444" height="331"/>
+	<SubTexture name="down0003" x="499" y="30" width="444" height="331"/>
+	<SubTexture name="idle0000" x="968" y="30" width="421" height="367"/>
+	<SubTexture name="idle0001" x="968" y="30" width="421" height="367"/>
+	<SubTexture name="idle0002" x="968" y="30" width="421" height="367"/>
+	<SubTexture name="idle0003" x="968" y="30" width="421" height="367"/>
+	<SubTexture name="left0000" x="1414" y="30" width="453" height="367"/>
+	<SubTexture name="left0001" x="1414" y="30" width="453" height="367"/>
+	<SubTexture name="left0002" x="30" y="422" width="453" height="367"/>
+	<SubTexture name="left0003" x="30" y="422" width="453" height="367"/>
+	<SubTexture name="right0000" x="508" y="422" width="427" height="367"/>
+	<SubTexture name="right0001" x="508" y="422" width="427" height="367"/>
+	<SubTexture name="right0002" x="960" y="422" width="427" height="367"/>
+	<SubTexture name="right0003" x="960" y="422" width="427" height="367"/>
+	<SubTexture name="up0000" x="1412" y="422" width="421" height="453"/>
+	<SubTexture name="up0001" x="1412" y="422" width="421" height="453"/>
+	<SubTexture name="up0002" x="30" y="900" width="421" height="453"/>
+	<SubTexture name="up0003" x="30" y="900" width="421" height="453"/>
+</TextureAtlas>

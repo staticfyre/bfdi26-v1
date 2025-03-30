@@ -1,0 +1,36 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-376,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/liygfsprite",
+	"position": [
+		40,
+		370
+	],
+	"healthicon": "leafy",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		199,
+		0
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

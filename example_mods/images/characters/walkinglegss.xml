@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="walkinglegss.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="walkinglegs0000" x="30" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0001" x="183" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0002" x="336" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0003" x="489" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0004" x="642" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0005" x="795" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0006" x="948" y="30" width="128" height="54"/>
+	<SubTexture name="walkinglegs0007" x="30" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0008" x="183" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0009" x="336" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0010" x="489" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0011" x="642" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0012" x="795" y="109" width="128" height="54"/>
+	<SubTexture name="walkinglegs0013" x="948" y="109" width="128" height="54"/>
+</TextureAtlas>

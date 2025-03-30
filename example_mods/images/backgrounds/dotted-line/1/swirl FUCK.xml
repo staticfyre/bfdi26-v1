@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swirl fuck with new lighting.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10 instance 10000" x="10" y="10" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10001" x="1752" y="10" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10002" x="3494" y="10" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10003" x="5236" y="10" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10004" x="10" y="1013" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10005" x="1752" y="1013" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10006" x="3494" y="1013" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10007" x="5236" y="1013" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10008" x="10" y="2016" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10009" x="1752" y="2016" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10010" x="3494" y="2016" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10011" x="5236" y="2016" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10012" x="10" y="3019" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10013" x="1752" y="3019" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10014" x="3494" y="3019" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10015" x="5236" y="3019" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10016" x="10" y="4022" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10017" x="1752" y="4022" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10018" x="3494" y="4022" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10019" x="5236" y="4022" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10020" x="10" y="5025" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10021" x="1752" y="5025" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10022" x="3494" y="5025" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10023" x="5236" y="5025" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10024" x="10" y="6028" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10025" x="1752" y="6028" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10026" x="3494" y="6028" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10027" x="5236" y="6028" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10028" x="10" y="7031" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10029" x="1752" y="7031" width="1732" height="993"/>
+	<SubTexture name="Symbol 10 instance 10030" x="3494" y="7031" width="1732" height="993"/>
+</TextureAtlas>

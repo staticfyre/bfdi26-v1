@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="heytwotext.png" width="688" height="160">
+	<SubTexture name="Symbol 3 copy 90000" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90001" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90002" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90003" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90004" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90005" x="0" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90006" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90007" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90008" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90009" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90010" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+	<SubTexture name="Symbol 3 copy 90011" x="344" y="0" width="344" height="160" frameX="-0" frameY="-0" frameWidth="344" frameHeight="160"/>
+</TextureAtlas>

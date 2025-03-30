@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bellbopper.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bellbopleft0000" x="30" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0001" x="30" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0002" x="580" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0003" x="580" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0004" x="580" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0005" x="1130" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0006" x="1130" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0007" x="1680" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0008" x="1680" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0009" x="2230" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0010" x="2230" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0011" x="2780" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0012" x="3330" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopleft0013" x="3330" y="30" width="525" height="4024"/>
+	<SubTexture name="bellbopright0000" x="3880" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0001" x="3880" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0002" x="4971" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0003" x="4971" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0004" x="4971" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0005" x="6062" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0006" x="6062" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0007" x="6062" y="30" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0008" x="30" y="4099" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0009" x="30" y="4099" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0010" x="1121" y="4099" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0011" x="1121" y="4099" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0012" x="2212" y="4099" width="1066" height="4044"/>
+	<SubTexture name="bellbopright0013" x="2212" y="4099" width="1066" height="4044"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="runninghattylegs.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="runninglegs0000" x="30" y="30" width="130" height="66"/>
+	<SubTexture name="runninglegs0001" x="185" y="30" width="130" height="66"/>
+	<SubTexture name="runninglegs0002" x="340" y="30" width="130" height="66"/>
+	<SubTexture name="runninglegs0003" x="30" y="121" width="130" height="66"/>
+	<SubTexture name="runninglegs0004" x="185" y="121" width="130" height="66"/>
+	<SubTexture name="runninglegs0005" x="340" y="121" width="130" height="66"/>
+	<SubTexture name="runninglegs0006" x="30" y="212" width="130" height="66"/>
+	<SubTexture name="runninglegs0007" x="185" y="212" width="130" height="66"/>
+</TextureAtlas>

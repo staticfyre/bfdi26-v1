@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evilleafy.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="evil0000" x="30" y="30" width="697" height="293"/>
+	<SubTexture name="evil0001" x="752" y="30" width="697" height="293"/>
+	<SubTexture name="evil0002" x="30" y="348" width="697" height="293"/>
+	<SubTexture name="evil0003" x="752" y="348" width="697" height="293"/>
+	<SubTexture name="evil0004" x="30" y="666" width="697" height="293"/>
+	<SubTexture name="evil0005" x="752" y="666" width="697" height="293"/>
+	<SubTexture name="evil0006" x="30" y="984" width="697" height="293"/>
+	<SubTexture name="evil0007" x="752" y="984" width="697" height="293"/>
+	<SubTexture name="evil20000" x="30" y="1302" width="697" height="293"/>
+	<SubTexture name="evil20001" x="752" y="1302" width="697" height="293"/>
+	<SubTexture name="evil20002" x="30" y="1620" width="697" height="293"/>
+	<SubTexture name="evil20003" x="752" y="1620" width="697" height="293"/>
+	<SubTexture name="evil20004" x="30" y="1938" width="697" height="293"/>
+	<SubTexture name="evil20005" x="752" y="1938" width="697" height="293"/>
+	<SubTexture name="evil20006" x="30" y="2256" width="697" height="293"/>
+	<SubTexture name="evil20007" x="752" y="2256" width="697" height="293"/>
+</TextureAtlas>

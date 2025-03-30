@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-hat.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Died0000" x="0" y="0" width="148" height="120" frameX="0" frameY="0" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0001" x="0" y="0" width="148" height="120" frameX="0" frameY="0" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0002" x="0" y="0" width="148" height="120" frameX="0" frameY="0" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0003" x="210" y="0" width="148" height="120" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0004" x="210" y="0" width="148" height="120" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0005" x="210" y="0" width="148" height="120" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0006" x="420" y="0" width="148" height="121" frameX="0" frameY="-3" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0007" x="420" y="0" width="148" height="121" frameX="0" frameY="-3" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0008" x="420" y="0" width="148" height="121" frameX="0" frameY="-3" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0009" x="630" y="0" width="148" height="121" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0010" x="630" y="0" width="148" height="121" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Died0011" x="630" y="0" width="148" height="121" frameX="0" frameY="-1" frameWidth="148" frameHeight="124"/>
+	<SubTexture name="Idle0000" x="840" y="0" width="162" height="120" frameX="0" frameY="0" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0001" x="840" y="0" width="162" height="120" frameX="0" frameY="0" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0002" x="840" y="0" width="162" height="120" frameX="0" frameY="0" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0003" x="0" y="183" width="162" height="120" frameX="0" frameY="-1" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0004" x="0" y="183" width="162" height="120" frameX="0" frameY="-1" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0005" x="0" y="183" width="162" height="120" frameX="0" frameY="-1" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0006" x="224" y="183" width="156" height="120" frameX="0" frameY="-3" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0007" x="224" y="183" width="156" height="120" frameX="0" frameY="-3" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0008" x="224" y="183" width="156" height="120" frameX="0" frameY="-3" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0009" x="442" y="183" width="156" height="120" frameX="0" frameY="-2" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0010" x="442" y="183" width="156" height="120" frameX="0" frameY="-2" frameWidth="162" frameHeight="123"/>
+	<SubTexture name="Idle0011" x="442" y="183" width="156" height="120" frameX="0" frameY="-2" frameWidth="162" frameHeight="123"/>
+</TextureAtlas>

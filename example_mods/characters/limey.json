@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-746,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-744,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-735,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-709,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-802,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-679,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dance",
+			"indices": [],
+			"name": "dance_but_anim"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/limey_dancey",
+	"position": [
+		20,
+		440
+	],
+	"healthicon": "limey",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		255,
+		73
+	],
+	"camera_position": [
+		-320,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

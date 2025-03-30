@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="newfriendlytext.png" width="702" height="83">
+	<SubTexture name="Symbol 3 copy 100000" x="0" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+	<SubTexture name="Symbol 3 copy 100001" x="0" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+	<SubTexture name="Symbol 3 copy 100002" x="0" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+	<SubTexture name="Symbol 3 copy 100003" x="351" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+	<SubTexture name="Symbol 3 copy 100004" x="351" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+	<SubTexture name="Symbol 3 copy 100005" x="351" y="0" width="351" height="83" frameX="-0" frameY="-0" frameWidth="351" frameHeight="83"/>
+</TextureAtlas>

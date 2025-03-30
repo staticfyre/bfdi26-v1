@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tbgbbopping.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tbgbbop0000" x="30" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0001" x="30" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0002" x="543" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0003" x="543" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0004" x="1056" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0005" x="1056" y="30" width="488" height="828"/>
+	<SubTexture name="tbgbbop0006" x="30" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0007" x="30" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0008" x="543" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0009" x="543" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0010" x="543" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0011" x="543" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0012" x="543" y="883" width="488" height="828"/>
+	<SubTexture name="tbgbbop0013" x="543" y="883" width="488" height="828"/>
+</TextureAtlas>

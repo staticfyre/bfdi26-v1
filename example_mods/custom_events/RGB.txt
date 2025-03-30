@@ -1,0 +1,4 @@
+triggers rgb shader stuff for hey two i think thats the only song thhat has it
+
+v1 = value it goes to
+v2 = value it returns to

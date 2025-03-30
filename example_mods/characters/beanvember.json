@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "beanie-idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-339
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "beanie-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-354
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "beanie-down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-321
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "beanie-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-337
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "beanie-right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/beanie_show",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beanie",
+	"flip_x": false,
+	"healthbar_colors": [
+		29,
+		62,
+		141
+	],
+	"camera_position": [
+		0,
+		340
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

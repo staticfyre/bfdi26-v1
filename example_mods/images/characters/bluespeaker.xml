@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluespeaker v2.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle instance 10000" x="10" y="10" width="351" height="396"/>
+	<SubTexture name="idle instance 10001" x="10" y="10" width="351" height="396"/>
+	<SubTexture name="idle instance 10002" x="371" y="10" width="351" height="393" frameX="0" frameY="-2" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10003" x="371" y="10" width="351" height="393" frameX="0" frameY="-2" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10004" x="732" y="10" width="348" height="388" frameX="-2" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10005" x="732" y="10" width="348" height="388" frameX="-2" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10006" x="1090" y="10" width="344" height="389" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10007" x="1090" y="10" width="344" height="389" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10008" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10009" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10010" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10011" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10012" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+	<SubTexture name="idle instance 10013" x="1444" y="10" width="344" height="391" frameX="-4" frameY="-3" frameWidth="351" frameHeight="396"/>
+</TextureAtlas>

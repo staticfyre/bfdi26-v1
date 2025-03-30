@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gatybop.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gatybop0000" x="30" y="30" width="331" height="295"/>
+	<SubTexture name="gatybop0001" x="30" y="30" width="331" height="295"/>
+	<SubTexture name="gatybop0002" x="386" y="30" width="331" height="295"/>
+	<SubTexture name="gatybop0003" x="386" y="30" width="331" height="295"/>
+	<SubTexture name="gatybop0004" x="30" y="350" width="331" height="295"/>
+	<SubTexture name="gatybop0005" x="30" y="350" width="331" height="295"/>
+	<SubTexture name="gatybop0006" x="386" y="350" width="331" height="295"/>
+	<SubTexture name="gatybop0007" x="386" y="350" width="331" height="295"/>
+	<SubTexture name="gatybop0008" x="30" y="670" width="331" height="295"/>
+	<SubTexture name="gatybop0009" x="30" y="670" width="331" height="295"/>
+	<SubTexture name="gatybop0010" x="30" y="670" width="331" height="295"/>
+	<SubTexture name="gatybop0011" x="30" y="670" width="331" height="295"/>
+	<SubTexture name="gatybop0012" x="30" y="670" width="331" height="295"/>
+	<SubTexture name="gatybop0013" x="30" y="670" width="331" height="295"/>
+</TextureAtlas>

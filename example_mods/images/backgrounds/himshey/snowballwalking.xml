@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="snowballwalking.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snowballs0000" x="30" y="30" width="572" height="643"/>
+	<SubTexture name="snowballs0001" x="627" y="30" width="572" height="643"/>
+	<SubTexture name="snowballs0002" x="30" y="698" width="572" height="643"/>
+	<SubTexture name="snowballs0003" x="627" y="698" width="572" height="643"/>
+	<SubTexture name="snowballs0004" x="30" y="1366" width="572" height="643"/>
+	<SubTexture name="snowballs0005" x="627" y="1366" width="572" height="643"/>
+	<SubTexture name="snowballs0006" x="30" y="2034" width="572" height="643"/>
+	<SubTexture name="snowballs0007" x="627" y="2034" width="572" height="643"/>
+	<SubTexture name="snowballs0008" x="30" y="2702" width="572" height="643"/>
+	<SubTexture name="snowballs0009" x="627" y="2702" width="572" height="643"/>
+	<SubTexture name="snowballs0010" x="30" y="3370" width="572" height="643"/>
+	<SubTexture name="snowballs0011" x="627" y="3370" width="572" height="643"/>
+	<SubTexture name="snowballs0012" x="30" y="4038" width="572" height="643"/>
+	<SubTexture name="snowballs0013" x="627" y="4038" width="572" height="643"/>
+	<SubTexture name="snowballs0014" x="30" y="4706" width="572" height="643"/>
+	<SubTexture name="snowballs0015" x="627" y="4706" width="572" height="643"/>
+</TextureAtlas>

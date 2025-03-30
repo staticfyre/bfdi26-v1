@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="grassybop.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grassybop0000" x="30" y="30" width="367" height="590"/>
+	<SubTexture name="grassybop0001" x="422" y="30" width="367" height="590"/>
+	<SubTexture name="grassybop0002" x="814" y="30" width="367" height="590"/>
+	<SubTexture name="grassybop0003" x="1206" y="30" width="367" height="590"/>
+	<SubTexture name="grassybop0004" x="1598" y="30" width="367" height="590"/>
+	<SubTexture name="grassybop0005" x="30" y="645" width="367" height="590"/>
+	<SubTexture name="grassybop0006" x="422" y="645" width="367" height="590"/>
+	<SubTexture name="grassybop0007" x="814" y="645" width="367" height="590"/>
+	<SubTexture name="grassybop0008" x="1206" y="645" width="367" height="590"/>
+	<SubTexture name="grassybop0009" x="1598" y="645" width="367" height="590"/>
+	<SubTexture name="grassybop0010" x="30" y="1260" width="367" height="590"/>
+	<SubTexture name="grassybop0011" x="422" y="1260" width="367" height="590"/>
+	<SubTexture name="grassybop0012" x="814" y="1260" width="367" height="590"/>
+	<SubTexture name="grassybop0013" x="1206" y="1260" width="367" height="590"/>
+	<SubTexture name="grassybop0014" x="1598" y="1260" width="367" height="590"/>
+	<SubTexture name="grassybop0015" x="30" y="1875" width="367" height="590"/>
+	<SubTexture name="grassybop0016" x="422" y="1875" width="367" height="590"/>
+	<SubTexture name="grassybop0017" x="814" y="1875" width="367" height="590"/>
+	<SubTexture name="grassybop0018" x="1206" y="1875" width="367" height="590"/>
+	<SubTexture name="grassybop0019" x="1598" y="1875" width="367" height="590"/>
+	<SubTexture name="grassybop0020" x="30" y="2490" width="367" height="590"/>
+</TextureAtlas>

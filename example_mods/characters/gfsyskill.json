@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				124
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Idle1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				124
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Idle2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				115
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				176
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				85
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/gfboombox",
+	"position": [
+		45,
+		360
+	],
+	"healthicon": "gfbox",
+	"flip_x": true,
+	"healthbar_colors": [
+		84,
+		64,
+		167
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}

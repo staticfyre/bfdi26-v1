@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireyold.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="345" height="416"/>
+	<SubTexture name="down0001" x="30" y="30" width="345" height="416"/>
+	<SubTexture name="down0002" x="400" y="30" width="345" height="416"/>
+	<SubTexture name="down0003" x="400" y="30" width="345" height="416"/>
+	<SubTexture name="down0004" x="770" y="30" width="345" height="416"/>
+	<SubTexture name="down0005" x="770" y="30" width="345" height="416"/>
+	<SubTexture name="down0006" x="1140" y="30" width="345" height="416"/>
+	<SubTexture name="down0007" x="1140" y="30" width="345" height="416"/>
+	<SubTexture name="idle0000" x="1510" y="30" width="362" height="422"/>
+	<SubTexture name="idle0001" x="1510" y="30" width="362" height="422"/>
+	<SubTexture name="idle0002" x="30" y="477" width="362" height="422"/>
+	<SubTexture name="idle0003" x="30" y="477" width="362" height="422"/>
+	<SubTexture name="idle0004" x="417" y="477" width="362" height="422"/>
+	<SubTexture name="idle0005" x="417" y="477" width="362" height="422"/>
+	<SubTexture name="left0000" x="804" y="477" width="426" height="412"/>
+	<SubTexture name="left0001" x="804" y="477" width="426" height="412"/>
+	<SubTexture name="left0002" x="1255" y="477" width="426" height="412"/>
+	<SubTexture name="left0003" x="1255" y="477" width="426" height="412"/>
+	<SubTexture name="left0004" x="30" y="924" width="426" height="412"/>
+	<SubTexture name="left0005" x="30" y="924" width="426" height="412"/>
+	<SubTexture name="left0006" x="481" y="924" width="426" height="412"/>
+	<SubTexture name="left0007" x="481" y="924" width="426" height="412"/>
+	<SubTexture name="right0000" x="932" y="924" width="348" height="435"/>
+	<SubTexture name="right0001" x="932" y="924" width="348" height="435"/>
+	<SubTexture name="right0002" x="1305" y="924" width="348" height="435"/>
+	<SubTexture name="right0003" x="1305" y="924" width="348" height="435"/>
+	<SubTexture name="right0004" x="30" y="1384" width="348" height="435"/>
+	<SubTexture name="right0005" x="30" y="1384" width="348" height="435"/>
+	<SubTexture name="right0006" x="403" y="1384" width="348" height="435"/>
+	<SubTexture name="right0007" x="403" y="1384" width="348" height="435"/>
+	<SubTexture name="up0000" x="776" y="1384" width="412" height="442"/>
+	<SubTexture name="up0001" x="776" y="1384" width="412" height="442"/>
+	<SubTexture name="up0002" x="1213" y="1384" width="412" height="442"/>
+	<SubTexture name="up0003" x="1213" y="1384" width="412" height="442"/>
+	<SubTexture name="up0004" x="30" y="1851" width="412" height="442"/>
+	<SubTexture name="up0005" x="30" y="1851" width="412" height="442"/>
+	<SubTexture name="up0006" x="467" y="1851" width="412" height="442"/>
+	<SubTexture name="up0007" x="467" y="1851" width="412" height="442"/>
+</TextureAtlas>

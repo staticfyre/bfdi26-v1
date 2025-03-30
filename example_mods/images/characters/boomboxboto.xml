@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boomboxboto.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boomboxaltidle0000" x="30" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0001" x="30" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0002" x="334" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0003" x="334" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0004" x="638" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0005" x="638" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0006" x="942" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0007" x="942" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0008" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0009" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0010" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0011" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0012" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxaltidle0013" x="1246" y="30" width="279" height="239"/>
+	<SubTexture name="boomboxidle0000" x="30" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0001" x="30" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0002" x="334" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0003" x="334" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0004" x="638" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0005" x="638" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0006" x="942" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0007" x="942" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0008" x="1246" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0009" x="1246" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0010" x="1246" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0011" x="1246" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0012" x="1246" y="294" width="279" height="239"/>
+	<SubTexture name="boomboxidle0013" x="1246" y="294" width="279" height="239"/>
+</TextureAtlas>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="playable_gf_SB.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf down instance 10000" x="0" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10001" x="255" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10002" x="510" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10003" x="765" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10004" x="1020" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10005" x="1275" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10006" x="1530" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10007" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10008" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10009" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10010" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10011" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10012" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10013" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down instance 10014" x="1785" y="0" width="255" height="303"/>
+	<SubTexture name="gf down miss instance 10000" x="2040" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10001" x="2040" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10002" x="2288" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10003" x="2288" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10004" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10005" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10006" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10007" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10008" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf down miss instance 10009" x="2536" y="0" width="248" height="304"/>
+	<SubTexture name="gf idle instance 10000" x="2784" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10001" x="2784" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10002" x="3011" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10003" x="3011" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10004" x="3238" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10005" x="3238" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10006" x="3465" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10007" x="3692" y="0" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10008" x="0" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10009" x="227" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10010" x="454" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10011" x="681" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10012" x="908" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10013" x="908" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10014" x="908" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10015" x="1135" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10016" x="1135" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10017" x="1362" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10018" x="1362" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10019" x="1589" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10020" x="1589" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10021" x="1816" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10022" x="2043" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10023" x="2270" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10024" x="2497" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10025" x="2724" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10026" x="2951" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10027" x="3178" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10028" x="3178" y="324" width="227" height="324"/>
+	<SubTexture name="gf idle instance 10029" x="3178" y="324" width="227" height="324"/>
+	<SubTexture name="gf left instance 10000" x="3405" y="324" width="229" height="329"/>
+	<SubTexture name="gf left instance 10001" x="3634" y="324" width="229" height="329"/>
+	<SubTexture name="gf left instance 10002" x="3863" y="324" width="229" height="329"/>
+	<SubTexture name="gf left instance 10003" x="0" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10004" x="229" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10005" x="458" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10006" x="687" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10007" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10008" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10009" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10010" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10011" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10012" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10013" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left instance 10014" x="916" y="653" width="229" height="329"/>
+	<SubTexture name="gf left miss instance 10000" x="1145" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10001" x="1145" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10002" x="1384" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10003" x="1384" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10004" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10005" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10006" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10007" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10008" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf left miss instance 10009" x="1623" y="653" width="239" height="328"/>
+	<SubTexture name="gf right instance 10000" x="1862" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10001" x="2163" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10002" x="2464" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10003" x="2765" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10004" x="3066" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10005" x="3367" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10006" x="3668" y="653" width="301" height="323"/>
+	<SubTexture name="gf right instance 10007" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10008" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10009" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10010" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10011" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10012" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10013" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right instance 10014" x="0" y="982" width="301" height="323"/>
+	<SubTexture name="gf right miss instance 10000" x="301" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10001" x="301" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10002" x="573" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10003" x="573" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10004" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10005" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10006" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10007" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10008" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf right miss instance 10009" x="845" y="982" width="272" height="319"/>
+	<SubTexture name="gf up instance 10000" x="1117" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10001" x="1412" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10002" x="1707" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10003" x="2002" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10004" x="2297" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10005" x="2592" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10006" x="2887" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10007" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10008" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10009" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10010" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10011" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10012" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10013" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up instance 10014" x="3182" y="982" width="295" height="370"/>
+	<SubTexture name="gf up miss instance 10000" x="3477" y="982" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10001" x="3477" y="982" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10002" x="3744" y="982" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10003" x="3744" y="982" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10004" x="0" y="1352" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10005" x="0" y="1352" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10006" x="0" y="1352" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10007" x="0" y="1352" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10008" x="0" y="1352" width="267" height="361"/>
+	<SubTexture name="gf up miss instance 10009" x="0" y="1352" width="267" height="361"/>
+</TextureAtlas>

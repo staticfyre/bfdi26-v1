@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="beanie_show.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beanie-down0000" x="10" y="10" width="315" height="275" frameX="0" frameY="-4" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0001" x="10" y="10" width="315" height="275" frameX="0" frameY="-4" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0002" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0003" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0004" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0005" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0006" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0007" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0008" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-down0009" x="335" y="10" width="317" height="279" frameX="-2" frameY="0" frameWidth="319" frameHeight="279"/>
+	<SubTexture name="beanie-idle0000" x="662" y="10" width="243" height="283" frameX="-1" frameY="-10" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0001" x="662" y="10" width="243" height="283" frameX="-1" frameY="-10" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0002" x="915" y="10" width="245" height="286" frameX="-1" frameY="-7" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0003" x="915" y="10" width="245" height="286" frameX="-1" frameY="-7" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0004" x="1170" y="10" width="243" height="291" frameX="-1" frameY="-2" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0005" x="1170" y="10" width="243" height="291" frameX="-1" frameY="-2" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0006" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0007" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0008" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0009" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0010" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0011" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0012" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-idle0013" x="1423" y="10" width="243" height="293" frameX="0" frameY="0" frameWidth="246" frameHeight="293"/>
+	<SubTexture name="beanie-left0000" x="1676" y="10" width="317" height="294" frameX="0" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0001" x="1676" y="10" width="317" height="294" frameX="0" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0002" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0003" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0004" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0005" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0006" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0007" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0008" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-left0009" x="10" y="314" width="322" height="294" frameX="-15" frameY="0" frameWidth="337" frameHeight="294"/>
+	<SubTexture name="beanie-right0000" x="342" y="314" width="304" height="296" frameX="-8" frameY="0" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0001" x="342" y="314" width="304" height="296" frameX="-8" frameY="0" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0002" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0003" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0004" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0005" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0006" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0007" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0008" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-right0009" x="656" y="314" width="306" height="294" frameX="0" frameY="-2" frameWidth="312" frameHeight="296"/>
+	<SubTexture name="beanie-up0000" x="972" y="314" width="298" height="310" frameX="-4" frameY="0" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0001" x="972" y="314" width="298" height="310" frameX="-4" frameY="0" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0002" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0003" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0004" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0005" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0006" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0007" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0008" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+	<SubTexture name="beanie-up0009" x="1280" y="314" width="303" height="300" frameX="0" frameY="-10" frameWidth="303" frameHeight="310"/>
+</TextureAtlas>

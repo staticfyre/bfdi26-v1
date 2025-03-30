@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-37,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-24,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-50,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "miss",
+			"loop": true,
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-43,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				106,
+				-29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/tpotbf",
+	"position": [
+		40,
+		500
+	],
+	"healthicon": "hatbf",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		40,
+		85
+	],
+	"camera_position": [
+		-80,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iwihatty.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blink0000" x="30" y="30" width="309" height="250"/>
+	<SubTexture name="blink0001" x="30" y="30" width="309" height="250"/>
+	<SubTexture name="blink0002" x="364" y="30" width="309" height="250"/>
+	<SubTexture name="blink0003" x="364" y="30" width="309" height="250"/>
+	<SubTexture name="down0000" x="30" y="305" width="307" height="229"/>
+	<SubTexture name="down0001" x="30" y="305" width="307" height="229"/>
+	<SubTexture name="down0002" x="362" y="305" width="307" height="229"/>
+	<SubTexture name="down0003" x="362" y="305" width="307" height="229"/>
+	<SubTexture name="idle0000" x="30" y="559" width="307" height="250"/>
+	<SubTexture name="idle0001" x="30" y="559" width="307" height="250"/>
+	<SubTexture name="idle0002" x="362" y="559" width="307" height="250"/>
+	<SubTexture name="idle0003" x="362" y="559" width="307" height="250"/>
+	<SubTexture name="left0000" x="30" y="834" width="316" height="250"/>
+	<SubTexture name="left0001" x="30" y="834" width="316" height="250"/>
+	<SubTexture name="left0002" x="371" y="834" width="316" height="250"/>
+	<SubTexture name="left0003" x="371" y="834" width="316" height="250"/>
+	<SubTexture name="miss0000" x="30" y="1109" width="334" height="249"/>
+	<SubTexture name="miss0001" x="30" y="1109" width="334" height="249"/>
+	<SubTexture name="miss0002" x="389" y="1109" width="334" height="249"/>
+	<SubTexture name="miss0003" x="389" y="1109" width="334" height="249"/>
+	<SubTexture name="right0000" x="30" y="1383" width="327" height="240"/>
+	<SubTexture name="right0001" x="30" y="1383" width="327" height="240"/>
+	<SubTexture name="right0002" x="382" y="1383" width="327" height="240"/>
+	<SubTexture name="right0003" x="382" y="1383" width="327" height="240"/>
+	<SubTexture name="up0000" x="30" y="1648" width="316" height="273"/>
+	<SubTexture name="up0001" x="30" y="1648" width="316" height="273"/>
+	<SubTexture name="up0002" x="371" y="1648" width="316" height="273"/>
+	<SubTexture name="up0003" x="371" y="1648" width="316" height="273"/>
+</TextureAtlas>

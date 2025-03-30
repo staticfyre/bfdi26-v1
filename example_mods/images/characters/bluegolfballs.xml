@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluegolfballs.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="altdown0000" x="30" y="30" width="249" height="307"/>
+	<SubTexture name="altdown0001" x="30" y="30" width="249" height="307"/>
+	<SubTexture name="altdown0002" x="304" y="30" width="249" height="307"/>
+	<SubTexture name="altdown0003" x="304" y="30" width="249" height="307"/>
+	<SubTexture name="altup0000" x="578" y="30" width="249" height="317"/>
+	<SubTexture name="altup0001" x="578" y="30" width="249" height="317"/>
+	<SubTexture name="altup0002" x="852" y="30" width="249" height="317"/>
+	<SubTexture name="altup0003" x="852" y="30" width="249" height="317"/>
+	<SubTexture name="down0000" x="1126" y="30" width="357" height="337"/>
+	<SubTexture name="down0001" x="1126" y="30" width="357" height="337"/>
+	<SubTexture name="down0002" x="1508" y="30" width="357" height="337"/>
+	<SubTexture name="down0003" x="1508" y="30" width="357" height="337"/>
+	<SubTexture name="idle0000" x="30" y="392" width="249" height="295"/>
+	<SubTexture name="left0000" x="304" y="392" width="357" height="337"/>
+	<SubTexture name="left0001" x="304" y="392" width="357" height="337"/>
+	<SubTexture name="left0002" x="686" y="392" width="357" height="337"/>
+	<SubTexture name="left0003" x="686" y="392" width="357" height="337"/>
+	<SubTexture name="right0000" x="1068" y="392" width="360" height="337"/>
+	<SubTexture name="right0001" x="1068" y="392" width="360" height="337"/>
+	<SubTexture name="right0002" x="1453" y="392" width="360" height="337"/>
+	<SubTexture name="right0003" x="1453" y="392" width="360" height="337"/>
+	<SubTexture name="up0000" x="30" y="754" width="249" height="441"/>
+	<SubTexture name="up0001" x="30" y="754" width="249" height="441"/>
+	<SubTexture name="up0002" x="304" y="754" width="249" height="441"/>
+	<SubTexture name="up0003" x="304" y="754" width="249" height="441"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PRIDE WALK.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pride_clicked0000" x="10" y="10" width="1012" height="244" frameX="0" frameY="-3" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_clicked0001" x="10" y="258" width="1013" height="243" frameX="0" frameY="0" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_clicked0002" x="10" y="505" width="1016" height="244" frameX="0" frameY="-3" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_clicked0003" x="10" y="753" width="1016" height="243" frameX="0" frameY="0" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_clicked0004" x="10" y="1000" width="1018" height="244" frameX="0" frameY="-3" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_clicked0005" x="10" y="1248" width="1018" height="243" frameX="0" frameY="0" frameWidth="1018" frameHeight="247"/>
+	<SubTexture name="pride_walk0000" x="1032" y="1248" width="988" height="218" frameX="0" frameY="-35" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0001" x="10" y="1495" width="989" height="226" frameX="0" frameY="-27" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0002" x="10" y="1495" width="989" height="226" frameX="0" frameY="-27" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0003" x="1003" y="1495" width="991" height="228" frameX="0" frameY="-25" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0004" x="1003" y="1495" width="991" height="228" frameX="0" frameY="-25" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0005" x="10" y="1727" width="991" height="225" frameX="-24" frameY="-43" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0006" x="1005" y="1727" width="990" height="225" frameX="-24" frameY="-43" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0007" x="10" y="1956" width="993" height="225" frameX="-24" frameY="-43" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0008" x="10" y="1956" width="993" height="225" frameX="-24" frameY="-43" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0009" x="1007" y="1956" width="996" height="225" frameX="-24" frameY="-43" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0010" x="10" y="2185" width="940" height="259" frameX="-30" frameY="-2" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0011" x="10" y="2185" width="940" height="259" frameX="-30" frameY="-2" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0012" x="954" y="2185" width="941" height="261" frameX="-30" frameY="0" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0013" x="954" y="2185" width="941" height="261" frameX="-30" frameY="0" frameWidth="1020" frameHeight="268"/>
+	<SubTexture name="pride_walk0014" x="10" y="2450" width="939" height="259" frameX="-30" frameY="-2" frameWidth="1020" frameHeight="268"/>
+</TextureAtlas>

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				76,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				72,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-162
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-162
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-162
+			],
+			"anim": "this",
+			"fps": 24,
+			"name": "this",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-162
+			],
+			"anim": "is",
+			"fps": 24,
+			"name": "is",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-162
+			],
+			"anim": "spart",
+			"fps": 24,
+			"name": "spart",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-162
+			],
+			"anim": "tah",
+			"fps": 24,
+			"name": "tah",
+			"indices": []
+		},
+		{
+			"offsets": [
+				73,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/ytpmvPRIDEFLAG",
+	"position": [
+		-43,
+		-215
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-100,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": true
+}

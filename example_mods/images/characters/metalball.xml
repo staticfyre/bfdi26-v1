@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metalball.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blinkmetalball0000" x="30" y="30" width="434" height="440"/>
+	<SubTexture name="blinkmetalball0001" x="30" y="30" width="434" height="440"/>
+	<SubTexture name="blinkmetalball0002" x="489" y="30" width="434" height="440"/>
+	<SubTexture name="blinkmetalball0003" x="489" y="30" width="434" height="440"/>
+	<SubTexture name="metalball0000" x="30" y="495" width="434" height="440"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seriouscirclebf.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="451" height="336"/>
+	<SubTexture name="down0001" x="30" y="30" width="451" height="336"/>
+	<SubTexture name="down0002" x="506" y="30" width="451" height="336"/>
+	<SubTexture name="down0003" x="506" y="30" width="451" height="336"/>
+	<SubTexture name="idle0000" x="982" y="30" width="381" height="379"/>
+	<SubTexture name="idle0001" x="982" y="30" width="381" height="379"/>
+	<SubTexture name="idle0002" x="1388" y="30" width="381" height="379"/>
+	<SubTexture name="idle0003" x="1388" y="30" width="381" height="379"/>
+	<SubTexture name="left0000" x="30" y="434" width="405" height="380"/>
+	<SubTexture name="left0001" x="30" y="434" width="405" height="380"/>
+	<SubTexture name="left0002" x="460" y="434" width="405" height="380"/>
+	<SubTexture name="left0003" x="460" y="434" width="405" height="380"/>
+	<SubTexture name="right0000" x="890" y="434" width="564" height="379"/>
+	<SubTexture name="right0001" x="890" y="434" width="564" height="379"/>
+	<SubTexture name="right0002" x="30" y="839" width="564" height="379"/>
+	<SubTexture name="right0003" x="30" y="839" width="564" height="379"/>
+	<SubTexture name="up0000" x="619" y="839" width="387" height="394"/>
+	<SubTexture name="up0001" x="619" y="839" width="387" height="394"/>
+	<SubTexture name="up0002" x="1031" y="839" width="387" height="394"/>
+	<SubTexture name="up0003" x="1031" y="839" width="387" height="394"/>
+</TextureAtlas>

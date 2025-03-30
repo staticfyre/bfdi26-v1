@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clocksprites.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="711" height="524"/>
+	<SubTexture name="down0001" x="30" y="30" width="711" height="524"/>
+	<SubTexture name="down0002" x="766" y="30" width="711" height="524"/>
+	<SubTexture name="down0003" x="766" y="30" width="711" height="524"/>
+	<SubTexture name="idle0000" x="30" y="579" width="715" height="628"/>
+	<SubTexture name="idle0001" x="30" y="579" width="715" height="628"/>
+	<SubTexture name="idle0002" x="30" y="579" width="715" height="628"/>
+	<SubTexture name="idle0003" x="770" y="579" width="715" height="628"/>
+	<SubTexture name="idle0004" x="770" y="579" width="715" height="628"/>
+	<SubTexture name="idle0005" x="770" y="579" width="715" height="628"/>
+	<SubTexture name="left0000" x="30" y="1232" width="736" height="654"/>
+	<SubTexture name="left0001" x="30" y="1232" width="736" height="654"/>
+	<SubTexture name="left0002" x="791" y="1232" width="736" height="654"/>
+	<SubTexture name="left0003" x="791" y="1232" width="736" height="654"/>
+	<SubTexture name="right0000" x="30" y="1911" width="720" height="613"/>
+	<SubTexture name="right0001" x="30" y="1911" width="720" height="613"/>
+	<SubTexture name="right0002" x="775" y="1911" width="720" height="613"/>
+	<SubTexture name="right0003" x="775" y="1911" width="720" height="613"/>
+	<SubTexture name="up0000" x="30" y="2549" width="773" height="745"/>
+	<SubTexture name="up0001" x="30" y="2549" width="773" height="745"/>
+	<SubTexture name="up0002" x="828" y="2549" width="773" height="745"/>
+	<SubTexture name="up0003" x="828" y="2549" width="773" height="745"/>
+</TextureAtlas>

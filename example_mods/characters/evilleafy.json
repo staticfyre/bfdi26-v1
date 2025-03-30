@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				31,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "evil2"
+		},
+		{
+			"offsets": [
+				70,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "evil0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/evilleafy",
+	"position": [
+		40,
+		370
+	],
+	"healthicon": "evilleafy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		51
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

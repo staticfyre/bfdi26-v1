@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purpleghostbg.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="purple0000" x="30" y="30" width="153" height="201"/>
+	<SubTexture name="purple0001" x="208" y="30" width="153" height="201"/>
+	<SubTexture name="purple0002" x="386" y="30" width="153" height="201"/>
+	<SubTexture name="purple0003" x="564" y="30" width="153" height="201"/>
+	<SubTexture name="purple0004" x="742" y="30" width="153" height="201"/>
+	<SubTexture name="purple0005" x="30" y="256" width="153" height="201"/>
+	<SubTexture name="purple0006" x="208" y="256" width="153" height="201"/>
+	<SubTexture name="purple0007" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0008" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0009" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0010" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0011" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0012" x="386" y="256" width="153" height="201"/>
+	<SubTexture name="purple0013" x="208" y="256" width="153" height="201"/>
+	<SubTexture name="purple0014" x="564" y="256" width="153" height="201"/>
+	<SubTexture name="purple0015" x="742" y="256" width="153" height="201"/>
+	<SubTexture name="purple0016" x="386" y="30" width="153" height="201"/>
+	<SubTexture name="purple0017" x="30" y="482" width="153" height="201"/>
+	<SubTexture name="purple0018" x="208" y="482" width="153" height="201"/>
+	<SubTexture name="purple0019" x="386" y="482" width="153" height="201"/>
+	<SubTexture name="purple0020" x="30" y="30" width="153" height="201"/>
+	<SubTexture name="purple0021" x="564" y="482" width="153" height="201"/>
+	<SubTexture name="purple0022" x="742" y="482" width="153" height="201"/>
+	<SubTexture name="purple0023" x="742" y="482" width="153" height="201"/>
+	<SubTexture name="purple0024" x="30" y="708" width="153" height="201"/>
+	<SubTexture name="purple0025" x="208" y="708" width="153" height="201"/>
+	<SubTexture name="purple0026" x="30" y="708" width="153" height="201"/>
+	<SubTexture name="purple0027" x="30" y="708" width="153" height="201"/>
+	<SubTexture name="purple0028" x="30" y="708" width="153" height="201"/>
+	<SubTexture name="purple0029" x="742" y="482" width="153" height="201"/>
+	<SubTexture name="purple0030" x="30" y="30" width="153" height="201"/>
+</TextureAtlas>

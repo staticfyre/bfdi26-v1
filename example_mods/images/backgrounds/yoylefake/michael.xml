@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MICHAEL HUANG GLORIOUS COFOUNDER OF BEEFY DIE.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MICHAEL instance 10000" x="0" y="0" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10001" x="812" y="0" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10002" x="1624" y="0" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10003" x="2436" y="0" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10004" x="3248" y="0" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10005" x="0" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10006" x="812" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10007" x="812" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10008" x="1624" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10009" x="2436" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10010" x="2436" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10011" x="3248" y="1167" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10012" x="0" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10013" x="0" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10014" x="812" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10015" x="1624" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10016" x="1624" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10017" x="1624" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10018" x="1624" y="2334" width="812" height="1167"/>
+	<SubTexture name="MICHAEL instance 10019" x="1624" y="2334" width="812" height="1167"/>
+</TextureAtlas>

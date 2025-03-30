@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bbIDLE instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bbDOWN instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bbUP instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bbLEFT instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bbRIGHT instance 1",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/basketball/basketball stuck assets",
+	"position": [
+		100,
+		80
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		244,
+		103,
+		60
+	],
+	"camera_position": [
+		-100,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.84,
+	"_editor_isPlayer": true
+}

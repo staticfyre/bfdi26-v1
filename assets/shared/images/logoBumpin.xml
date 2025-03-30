@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logoBumpin0000" x="30" y="30" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0001" x="30" y="30" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0002" x="30" y="810" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0003" x="30" y="810" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0004" x="30" y="1590" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0005" x="30" y="1590" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0006" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0007" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0008" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0009" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0010" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0011" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0012" x="30" y="2370" width="1024" height="755"/>
+	<SubTexture name="logoBumpin0013" x="30" y="2370" width="1024" height="755"/>
+</TextureAtlas>

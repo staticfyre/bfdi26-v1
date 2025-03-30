@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfdi26.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFDI260000" x="30" y="30" width="389" height="390"/>
+	<SubTexture name="BFDI260001" x="30" y="30" width="389" height="390"/>
+	<SubTexture name="BFDI260002" x="444" y="30" width="389" height="390"/>
+	<SubTexture name="BFDI260003" x="444" y="30" width="389" height="390"/>
+	<SubTexture name="BFDI260004" x="30" y="445" width="389" height="390"/>
+	<SubTexture name="BFDI260005" x="30" y="445" width="389" height="390"/>
+</TextureAtlas>

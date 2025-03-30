@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-38,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFidle"
+		},
+		{
+			"offsets": [
+				-12,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFdown"
+		},
+		{
+			"offsets": [
+				-4,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFup"
+		},
+		{
+			"offsets": [
+				-50,
+				-36
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "miss",
+			"indices": [],
+			"name": "BFmiss"
+		},
+		{
+			"offsets": [
+				96,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFleft"
+		},
+		{
+			"offsets": [
+				-103,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFright"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BFalt",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "hatbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		40,
+		85
+	],
+	"camera_position": [
+		-100,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

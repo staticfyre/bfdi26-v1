@@ -1,0 +1,62 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-340
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "popchud",
+			"indices": [
+				0
+			]
+		},
+		{
+			"offsets": [
+				-70,
+				-340
+			],
+			"indices": [
+				14
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "popchud_anim"
+		},
+		{
+			"offsets": [
+				-70,
+				-340
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "talk",
+			"loop": false,
+			"name": "popchud_anim"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/popcorn_chud",
+	"position": [
+		740,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		300
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

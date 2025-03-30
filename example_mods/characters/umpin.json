@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				201
+			],
+			"anim": "canwin",
+			"fps": 24,
+			"name": "wrongfingerintro umpin",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				200
+			],
+			"anim": "umpin",
+			"fps": 24,
+			"name": "wrongfingerintro umpin",
+			"indices": [
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				200
+			],
+			"anim": "wrong",
+			"fps": 24,
+			"name": "wrongfingerintro umpin",
+			"indices": [
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-275,
+				201
+			],
+			"anim": "finger",
+			"fps": 24,
+			"name": "wrongfingerintro umpin",
+			"indices": [
+				66,
+				67,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "backgrounds/wrongfinger/wrongfingerintro",
+	"position": [
+		40,
+		370
+	],
+	"healthicon": "leafy",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		199,
+		0
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 2.3,
+	"_editor_isPlayer": false
+}

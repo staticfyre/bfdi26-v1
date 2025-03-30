@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chezburger.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="457" height="299"/>
+	<SubTexture name="down0001" x="30" y="30" width="457" height="299"/>
+	<SubTexture name="down0002" x="512" y="30" width="457" height="299"/>
+	<SubTexture name="down0003" x="512" y="30" width="457" height="299"/>
+	<SubTexture name="idle0000" x="30" y="354" width="401" height="358"/>
+	<SubTexture name="left0000" x="456" y="354" width="410" height="358"/>
+	<SubTexture name="left0001" x="456" y="354" width="410" height="358"/>
+	<SubTexture name="left0002" x="30" y="737" width="410" height="358"/>
+	<SubTexture name="left0003" x="30" y="737" width="410" height="358"/>
+	<SubTexture name="right0000" x="465" y="737" width="455" height="358"/>
+	<SubTexture name="right0001" x="465" y="737" width="455" height="358"/>
+	<SubTexture name="right0002" x="30" y="1120" width="455" height="358"/>
+	<SubTexture name="right0003" x="30" y="1120" width="455" height="358"/>
+	<SubTexture name="up0000" x="510" y="1120" width="398" height="358"/>
+	<SubTexture name="up0001" x="510" y="1120" width="398" height="358"/>
+	<SubTexture name="up0002" x="30" y="1503" width="398" height="358"/>
+	<SubTexture name="up0003" x="30" y="1503" width="398" height="358"/>
+</TextureAtlas>

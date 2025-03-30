@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yellowfacebopper.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yellowfacebopper0000" x="30" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0001" x="30" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0002" x="560" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0003" x="560" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0004" x="1090" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0005" x="1090" y="30" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0006" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0007" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0008" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0009" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0010" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0011" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0012" x="30" y="534" width="505" height="479"/>
+	<SubTexture name="yellowfacebopper0013" x="30" y="534" width="505" height="479"/>
+</TextureAtlas>

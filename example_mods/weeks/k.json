@@ -1,0 +1,32 @@
+{
+	"storyName": "newthing",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"whos-there",
+			"evilleafy",
+			[
+				195,
+				0,
+				13
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week",
+	"hiddenUntilUnlocked": false
+}

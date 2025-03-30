@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dirtybubbleretro.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="389" height="402"/>
+	<SubTexture name="down0001" x="30" y="30" width="389" height="402"/>
+	<SubTexture name="down0002" x="444" y="30" width="389" height="402"/>
+	<SubTexture name="down0003" x="444" y="30" width="389" height="402"/>
+	<SubTexture name="idle0000" x="858" y="30" width="391" height="420"/>
+	<SubTexture name="idle0001" x="858" y="30" width="391" height="420"/>
+	<SubTexture name="idle0002" x="1274" y="30" width="391" height="420"/>
+	<SubTexture name="idle0003" x="1274" y="30" width="391" height="420"/>
+	<SubTexture name="left0000" x="30" y="475" width="401" height="420"/>
+	<SubTexture name="left0001" x="30" y="475" width="401" height="420"/>
+	<SubTexture name="left0002" x="456" y="475" width="401" height="420"/>
+	<SubTexture name="left0003" x="456" y="475" width="401" height="420"/>
+	<SubTexture name="right0000" x="882" y="475" width="447" height="485"/>
+	<SubTexture name="right0001" x="882" y="475" width="447" height="485"/>
+	<SubTexture name="right0002" x="1354" y="475" width="447" height="485"/>
+	<SubTexture name="right0003" x="1354" y="475" width="447" height="485"/>
+	<SubTexture name="up0000" x="30" y="985" width="467" height="462"/>
+	<SubTexture name="up0001" x="30" y="985" width="467" height="462"/>
+	<SubTexture name="up0002" x="522" y="985" width="467" height="462"/>
+	<SubTexture name="up0003" x="522" y="985" width="467" height="462"/>
+</TextureAtlas>

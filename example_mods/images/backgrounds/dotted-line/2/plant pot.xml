@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plant pot.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="plant pot instance 10000" x="10" y="10" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10001" x="505" y="10" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10002" x="1000" y="10" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10003" x="1495" y="10" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10004" x="1990" y="10" width="486" height="1210" frameX="-5" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10005" x="2486" y="10" width="487" height="1211" frameX="-5" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10006" x="2983" y="10" width="488" height="1211" frameX="-4" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10007" x="3481" y="10" width="488" height="1211" frameX="-4" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10008" x="3979" y="10" width="490" height="1211" frameX="-3" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10009" x="4479" y="10" width="491" height="1212" frameX="-2" frameY="-1" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10010" x="4980" y="10" width="492" height="1212" frameX="-2" frameY="-1" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10011" x="5482" y="10" width="493" height="1212" frameX="-1" frameY="-1" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10012" x="5985" y="10" width="493" height="1213" frameX="-1" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10013" x="6488" y="10" width="494" height="1213" frameX="0" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10014" x="6992" y="10" width="495" height="1213"/>
+	<SubTexture name="plant pot instance 10015" x="7497" y="10" width="495" height="1213"/>
+	<SubTexture name="plant pot instance 10016" x="10" y="1233" width="495" height="1213"/>
+	<SubTexture name="plant pot instance 10017" x="515" y="1233" width="494" height="1213" frameX="0" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10018" x="1019" y="1233" width="494" height="1213" frameX="0" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10019" x="1523" y="1233" width="494" height="1213" frameX="0" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10020" x="2027" y="1233" width="494" height="1213" frameX="0" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10021" x="2531" y="1233" width="492" height="1213" frameX="-1" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10022" x="3033" y="1233" width="491" height="1213" frameX="-2" frameY="0" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10023" x="3534" y="1233" width="489" height="1212" frameX="-3" frameY="-1" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10024" x="4033" y="1233" width="489" height="1212" frameX="-3" frameY="-1" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10025" x="4532" y="1233" width="488" height="1211" frameX="-4" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10026" x="5030" y="1233" width="486" height="1211" frameX="-5" frameY="-2" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10027" x="5526" y="1233" width="486" height="1210" frameX="-5" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10028" x="6022" y="1233" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+	<SubTexture name="plant pot instance 10029" x="6517" y="1233" width="485" height="1210" frameX="-6" frameY="-3" frameWidth="495" frameHeight="1213"/>
+</TextureAtlas>

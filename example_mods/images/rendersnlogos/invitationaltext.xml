@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="invitationaltext.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 3 copy 70000" x="30" y="30" width="467" height="106"/>
+	<SubTexture name="Symbol 3 copy 70001" x="30" y="30" width="467" height="106"/>
+	<SubTexture name="Symbol 3 copy 70002" x="30" y="30" width="467" height="106"/>
+	<SubTexture name="Symbol 3 copy 70003" x="30" y="30" width="467" height="106"/>
+	<SubTexture name="Symbol 3 copy 70004" x="30" y="30" width="467" height="106"/>
+	<SubTexture name="Symbol 3 copy 70005" x="30" y="30" width="467" height="106"/>
+</TextureAtlas>

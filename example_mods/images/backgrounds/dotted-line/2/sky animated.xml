@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky animated.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sky instance 10000" x="10" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10001" x="10" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10002" x="1872" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10003" x="1872" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10004" x="3734" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10005" x="3734" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10006" x="3734" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10007" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10008" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10009" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10010" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10011" x="1872" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10012" x="1872" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10013" x="1872" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10014" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10015" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10016" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10017" x="10" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10018" x="3734" y="611" width="1852" height="591"/>
+	<SubTexture name="sky instance 10019" x="1872" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10020" x="1872" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10021" x="1872" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10022" x="10" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10023" x="10" y="10" width="1852" height="591"/>
+	<SubTexture name="sky instance 10024" x="10" y="10" width="1852" height="591"/>
+</TextureAtlas>

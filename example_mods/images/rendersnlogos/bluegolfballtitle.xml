@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluegolfballtitle.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 3 copy 130000" x="30" y="30" width="511" height="368"/>
+	<SubTexture name="Symbol 3 copy 130001" x="30" y="423" width="511" height="368"/>
+</TextureAtlas>

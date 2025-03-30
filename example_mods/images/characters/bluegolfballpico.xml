@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bluegolfballpico.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="30" y="30" width="408" height="409"/>
+	<SubTexture name="down0001" x="30" y="30" width="408" height="409"/>
+	<SubTexture name="down0002" x="463" y="30" width="408" height="409"/>
+	<SubTexture name="down0003" x="463" y="30" width="408" height="409"/>
+	<SubTexture name="idle0000" x="896" y="30" width="319" height="432"/>
+	<SubTexture name="idle0001" x="896" y="30" width="319" height="432"/>
+	<SubTexture name="idle0002" x="1240" y="30" width="319" height="432"/>
+	<SubTexture name="idle0003" x="1240" y="30" width="319" height="432"/>
+	<SubTexture name="left0000" x="30" y="487" width="436" height="429"/>
+	<SubTexture name="left0001" x="30" y="487" width="436" height="429"/>
+	<SubTexture name="left0002" x="491" y="487" width="436" height="429"/>
+	<SubTexture name="left0003" x="491" y="487" width="436" height="429"/>
+	<SubTexture name="miss0000" x="952" y="487" width="369" height="416"/>
+	<SubTexture name="right0000" x="30" y="941" width="325" height="436"/>
+	<SubTexture name="right0001" x="30" y="941" width="325" height="436"/>
+	<SubTexture name="right0002" x="380" y="941" width="325" height="436"/>
+	<SubTexture name="right0003" x="380" y="941" width="325" height="436"/>
+	<SubTexture name="up0000" x="730" y="941" width="432" height="463"/>
+	<SubTexture name="up0001" x="730" y="941" width="432" height="463"/>
+	<SubTexture name="up0002" x="1187" y="941" width="432" height="463"/>
+	<SubTexture name="up0003" x="1187" y="941" width="432" height="463"/>
+</TextureAtlas>

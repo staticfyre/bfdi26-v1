@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="funnyfellow.png" width="383" height="329">
+	<SubTexture name="Symbol 30000" x="0" y="179" width="383" height="150" frameX="-0" frameY="-0" frameWidth="383" frameHeight="150"/>
+	<SubTexture name="Symbol 30001" x="0" y="0" width="383" height="179" frameX="-0" frameY="-0" frameWidth="383" frameHeight="179"/>
+</TextureAtlas>

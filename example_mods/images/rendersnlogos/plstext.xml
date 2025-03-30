@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="plstext.png" width="710" height="167">
+	<SubTexture name="Symbol 3 copy 110000" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110001" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110002" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110003" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110004" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110005" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110006" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110007" x="0" y="0" width="238" height="158" frameX="-0" frameY="-0" frameWidth="238" frameHeight="158"/>
+	<SubTexture name="Symbol 3 copy 110008" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110009" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110010" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110011" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110012" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110013" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110014" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110015" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110016" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110017" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110018" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110019" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110020" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110021" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110022" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110023" x="475" y="0" width="235" height="167" frameX="-0" frameY="-0" frameWidth="235" frameHeight="167"/>
+	<SubTexture name="Symbol 3 copy 110024" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110025" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110026" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110027" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110028" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110029" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110030" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+	<SubTexture name="Symbol 3 copy 110031" x="238" y="0" width="237" height="164" frameX="-0" frameY="-0" frameWidth="237" frameHeight="164"/>
+</TextureAtlas>

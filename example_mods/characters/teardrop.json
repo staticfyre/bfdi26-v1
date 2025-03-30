@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-746,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-746,
+				-36
+			],
+			"anim": "blink",
+			"fps": 24,
+			"name": "blink",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/teardrop",
+	"position": [
+		40,
+		370
+	],
+	"healthicon": "teardrop",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		213,
+		253
+	],
+	"camera_position": [
+		-120,
+		50
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

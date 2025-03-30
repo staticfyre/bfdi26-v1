@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="ezzylogo.png" width="897" height="407">
+	<SubTexture name="ezzy0000" x="0" y="85" width="896" height="83" frameX="-0" frameY="-0" frameWidth="896" frameHeight="83"/>
+	<SubTexture name="ezzy0001" x="0" y="0" width="897" height="85" frameX="-0" frameY="-0" frameWidth="897" frameHeight="85"/>
+	<SubTexture name="ezzy0002" x="0" y="249" width="896" height="79" frameX="-0" frameY="-0" frameWidth="896" frameHeight="79"/>
+	<SubTexture name="ezzy0003" x="0" y="328" width="896" height="79" frameX="-0" frameY="-0" frameWidth="896" frameHeight="79"/>
+	<SubTexture name="ezzy0004" x="0" y="168" width="896" height="81" frameX="-0" frameY="-0" frameWidth="896" frameHeight="81"/>
+</TextureAtlas>

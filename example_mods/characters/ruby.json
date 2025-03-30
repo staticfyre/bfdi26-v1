@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ruby idle instance 1"
+		},
+		{
+			"offsets": [56, -7],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ruby left instance 1"
+		},
+		{
+			"offsets": [0, -16],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ruby down instance 1"
+		},
+		{
+			"offsets": [-7, 178],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ruby up instance 1"
+		},
+		{
+			"offsets": [-59, 135],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ruby right instance 1"
+		},
+		{
+			"offsets": [60, 4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ruby leftALT instance 1"
+		},
+		{
+			"offsets": [73, -21],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ruby downALT instance 1"
+		},
+		{
+			"offsets": [-9, 67],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ruby upALT instance 1"
+		},
+		{
+			"offsets": [-53, 12],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ruby rightALT instance 1"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ABCDEFG assets",
+	"position": [-40, 430],
+	"healthicon": "ruby",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [0, 40],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
